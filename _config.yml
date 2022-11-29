@@ -34,6 +34,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+comment:
+  provider:     "disqus"
+  disqus:
+    shorname:   "super-corini"
+
+analytics:
+  provider:     "google-gtag"
+  google:
+    tracking_id:
+    measurement_id:     "G-8MDJ2LV3WK"
+    anonymize_ip:
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
