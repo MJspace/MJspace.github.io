@@ -21,7 +21,7 @@
 title: MJspace's Blog
 email: mjsa02@kookmin.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-This is MJspace's web page that briefly summarizes how to create a web page using the git and git hubs learned during the Eureka project.
+  This is MJspace's web page that briefly summarizes how to create a web page using the git and git hubs learned during the Eureka project.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 baseurl: "" # the subpath of your site, e.g. /blog
