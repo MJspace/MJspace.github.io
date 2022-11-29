@@ -24,7 +24,7 @@ comments: true
 - _includes>head.html 파일에 아래 코드를 추가하여 줌
 
 
-```
+```html
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
