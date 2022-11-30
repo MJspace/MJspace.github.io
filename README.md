@@ -71,6 +71,5 @@ git commit -m "change"
 
 ## 10.파비콘 설정
 - 원하는 이미지 파일 다운
-- https://realfavicongenerator.net/ 에서 사진 압축폴더 변형 후 다운로드 한 후 assets>logo.ico 폴더에 사진 정리
+- https://realfavicongenerator.net/ 에서 사진 압축폴더 변형 후 다운로드 한 후 assets>favicon.ico 폴더에 사진 정리
 - Generate your Favicons and HTML code 버튼을 눌러 얻은 코드를  github.io 폴더 > _includes 폴더 > head.html에 수정
-- href부분의 파일이름 앞에 {{site.baseurl}}/assets/logo.ico 추가
