@@ -37,13 +37,12 @@ plugins:
 comment:
   provider:     "disqus"
   disqus:
-    shorname:   "super-corini"
+    shorname:   "MJspace"
 
 analytics:
   provider:     "google-gtag"
   google:
-    tracking_id:
-    measurement_id:     "G-8MDJ2LV3WK"
+    tracking_id:  "G-8MDJ2LV3WK"    
     anonymize_ip:
 # Exclude from processing.
 # The following items will not be processed, by default.

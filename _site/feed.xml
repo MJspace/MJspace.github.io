@@ -1,203 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-29T15:21:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MJspace’s Blog</title><subtitle>This is MJspace&apos;s web page that briefly summarizes how to create a web page using the git and git hubs learned during the Eureka project.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/11/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-11-29T14:57:24+09:00</published><updated>2022-11-29T14:57:24+09:00</updated><id>http://localhost:4000/jekyll/update/2022/11/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/29/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/2020/01/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2020-01-31T23:45:13+09:00</published><updated>2020-01-31T23:45:13+09:00</updated><id>http://localhost:4000/2020/01/31/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2020/01/31/man-must-explore.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/2020/01/31/heartbeats.html" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine." /><published>2020-01-31T12:45:13+09:00</published><updated>2020-01-31T12:45:13+09:00</updated><id>http://localhost:4000/2020/01/31/heartbeats</id><content type="html" xml:base="http://localhost:4000/2020/01/31/heartbeats.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">Science has not yet mastered prophecy</title><link href="http://localhost:4000/2020/01/30/prophecy.html" rel="alternate" type="text/html" title="Science has not yet mastered prophecy" /><published>2020-01-30T12:45:13+09:00</published><updated>2020-01-30T12:45:13+09:00</updated><id>http://localhost:4000/2020/01/30/prophecy</id><content type="html" xml:base="http://localhost:4000/2020/01/30/prophecy.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">Failure is not an option</title><link href="http://localhost:4000/2020/01/29/exploration.html" rel="alternate" type="text/html" title="Failure is not an option" /><published>2020-01-29T12:45:13+09:00</published><updated>2020-01-29T12:45:13+09:00</updated><id>http://localhost:4000/2020/01/29/exploration</id><content type="html" xml:base="http://localhost:4000/2020/01/29/exploration.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">The dreams of yesterday are the hopes of today and the reality of tomorrow.</title><link href="http://localhost:4000/2020/01/28/dreams.html" rel="alternate" type="text/html" title="The dreams of yesterday are the hopes of today and the reality of tomorrow." /><published>2020-01-28T12:45:13+09:00</published><updated>2020-01-28T12:45:13+09:00</updated><id>http://localhost:4000/2020/01/28/dreams</id><content type="html" xml:base="http://localhost:4000/2020/01/28/dreams.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">Dinosaurs are extinct today</title><link href="http://localhost:4000/2020/01/27/dinosaurs.html" rel="alternate" type="text/html" title="Dinosaurs are extinct today" /><published>2020-01-27T12:45:13+09:00</published><updated>2020-01-27T12:45:13+09:00</updated><id>http://localhost:4000/2020/01/27/dinosaurs</id><content type="html" xml:base="http://localhost:4000/2020/01/27/dinosaurs.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
-
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
-
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-30T15:13:10+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MJspace’s Blog</title><subtitle>This is MJspace&apos;s web page that briefly summarizes how to create a web page using the git and git hubs learned during the Eureka project.</subtitle><entry><title type="html">google_analytics</title><link href="http://localhost:4000/jekyll/update/2022/11/29/google_analytics.html" rel="alternate" type="text/html" title="google_analytics" /><published>2022-11-29T16:48:10+09:00</published><updated>2022-11-29T16:48:10+09:00</updated><id>http://localhost:4000/jekyll/update/2022/11/29/google_analytics</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/29/google_analytics.html"><![CDATA[<h1 id="google-analytics">Google-analytics</h1>
+<p>:구글에서 제공하는 웹사이트 트래픽을 추적 보고하는 서비스</p>
+
+<p>## 가입 및 계정 생성</p>
+<ul>
+  <li>google anlytics 사이트에 접속하여 계정 생성 및 설정</li>
+  <li>속성 이름 설정 시 자신이 사용하는 블로그 주소를 입력해야 함</li>
+  <li>그 외 설정은 자유롭게 자신의 기호에 따라 설정해주면 됨</li>
+  <li>약관에 동의하고 설정 완료</li>
+</ul>
+
+<h2 id="측정-id">측정 ID</h2>
+<ul>
+  <li>웹 스트림 세부정보에 나오는 측정 ID를 복사해 놓는다.</li>
+</ul>
+
+<h2 id="gitblog-설정">GitBlog 설정</h2>
+<ul>
+  <li>_config.yml 파일을 수정하는데 이때 provider에는 “google-gtag”를 입력해주고, measurement_id에는 복사해 놓은 추적 ID를 입력해 줌</li>
+  <li>_includes&gt;head.html 파일에 아래 코드를 추가하여 줌</li>
+</ul>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;</span>
+<span class="nt">&lt;script </span><span class="na">async</span> <span class="na">src=</span><span class="s">"https://www.googletagmanager.com/gtag/js?id="</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script&gt;</span>
+    <span class="nb">window</span><span class="p">.</span><span class="nx">dataLayer</span> <span class="o">=</span> <span class="nb">window</span><span class="p">.</span><span class="nx">dataLayer</span> <span class="o">||</span> <span class="p">[];</span>
+    <span class="kd">function</span> <span class="nx">gtag</span><span class="p">(){</span><span class="nx">dataLayer</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">arguments</span><span class="p">);}</span>
+    <span class="nx">gtag</span><span class="p">(</span><span class="dl">'</span><span class="s1">js</span><span class="dl">'</span><span class="p">,</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">());</span>
+    <span class="nx">gtag</span><span class="p">(</span><span class="dl">'</span><span class="s1">config</span><span class="dl">'</span><span class="p">,</span> <span class="dl">''</span><span class="p">);</span>
+    <span class="nx">gtag</span><span class="p">(</span><span class="dl">'</span><span class="s1">config</span><span class="dl">'</span><span class="p">,</span> <span class="nx">G</span><span class="o">-</span><span class="mi">8</span><span class="nx">MDJ2LV3WK</span><span class="p">);</span>
+<span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Google-analytics :구글에서 제공하는 웹사이트 트래픽을 추적 보고하는 서비스]]></summary></entry><entry><title type="html">Markdown</title><link href="http://localhost:4000/jekyll/update/2022/11/16/markdown.html" rel="alternate" type="text/html" title="Markdown" /><published>2022-11-16T17:06:28+09:00</published><updated>2022-11-16T17:06:28+09:00</updated><id>http://localhost:4000/jekyll/update/2022/11/16/markdown</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/16/markdown.html"><![CDATA[<p>‘마크다운은 일반 텍스트 기반의 경량 마크업 언어’
+–&gt;따라서 일반 텍스트로 서식이 있는 문서를 작성할 수 있다!</p>
+
+<h1 id="마크다운-문법">마크다운 문법</h1>
+<h2 id="header">Header</h2>
+<ul>
+  <li>’#’의 개수로 글자의 크기를 조정해 제목을 작성할 수 있다.
+    <h2 id="italic">Italic</h2>
+  </li>
+  <li>’* *, _ _‘로 기울임체 작성 가능
+    <h2 id="bold">Bold</h2>
+  </li>
+  <li>‘** **, __ __‘로 강조체 작성 가능
+    <h2 id="strikethrough">Strikethrough</h2>
+  </li>
+  <li>’~ ~’로 취소선 작성 가능
+    <h2 id="unordered-list">Unordered List</h2>
+  </li>
+  <li>’-, *‘으로 순서없는 리스트 작성 가능
+    <h2 id="ordered-list">Ordered List</h2>
+  </li>
+  <li>‘숫자 ex)1.’로 순서없는 리스트 작성 가능
+    <h2 id="code">Code</h2>
+  </li>
+  <li>’ ‘로 코드 작성
+    <h2 id="code-block">Code Block</h2>
+  </li>
+  <li>’’’ ‘'’으로 코드블럭 작성</li>
+</ul>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">power</span><span class="p">(</span><span class="n">x</span><span class="p">:</span> <span class="nb">int</span><span class="p">):</span>
+  <span class="k">return</span> <span class="n">x</span> <span class="o">**</span> <span class="mi">2</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[‘마크다운은 일반 텍스트 기반의 경량 마크업 언어’ –&gt;따라서 일반 텍스트로 서식이 있는 문서를 작성할 수 있다!]]></summary></entry><entry><title type="html">Git&amp;amp;Github</title><link href="http://localhost:4000/jekyll/update/2022/11/16/git.html" rel="alternate" type="text/html" title="Git&amp;amp;Github" /><published>2022-11-16T16:48:10+09:00</published><updated>2022-11-16T16:48:10+09:00</updated><id>http://localhost:4000/jekyll/update/2022/11/16/git</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/16/git.html"><![CDATA[<h1 id="git">Git</h1>
+<p>:분산 버전관리 시스템
+-&gt;git <명령어> 를 통해 관리, git의 저장단위는 commit!
+ ## Git 명령어</명령어></p>
+<ul>
+  <li>git init -&gt; 로컬 저장소 생성</li>
+  <li>git status -&gt; 현재 깃 상태 확인</li>
+  <li>git add -&gt; 스테이징 영역에 파일 추가 됨</li>
+  <li>git commit</li>
+  <li>git push</li>
+  <li>git reset</li>
+  <li>git pull</li>
+  <li>git log -&gt; commit 기록 확인</li>
+</ul>
+
+<h2 id="git-branch">Git branch</h2>
+<ul>
+  <li>git brach &lt;&gt; - 브랜치 생성</li>
+  <li>git checkout &lt;&gt; -브랜치 전환</li>
+  <li>git merge&lt;&gt; -브랜치 병합</li>
+  <li>git branch -d &lt;&gt; -브랜치 삭제</li>
+</ul>
+
+<h1 id="github">Github</h1>
+<p>-&gt;로컬 저장소를 넘어 원격 저장소로!
+ 깃허브는 원격저장소로 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스이다.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Git :분산 버전관리 시스템 -&gt;git 를 통해 관리, git의 저장단위는 commit! ## Git 명령어 git init -&gt; 로컬 저장소 생성 git status -&gt; 현재 깃 상태 확인 git add -&gt; 스테이징 영역에 파일 추가 됨 git commit git push git reset git pull git log -&gt; commit 기록 확인]]></summary></entry><entry><title type="html">Jekyll</title><link href="http://localhost:4000/jekyll/update/2022/11/16/jekyll.html" rel="alternate" type="text/html" title="Jekyll" /><published>2022-11-16T16:48:10+09:00</published><updated>2022-11-16T16:48:10+09:00</updated><id>http://localhost:4000/jekyll/update/2022/11/16/jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/16/jekyll.html"><![CDATA[<h1 id="jekyll이란">Jekyll이란?</h1>
+<p>: 루비 기반 정적 웹사이트 생성기</p>
+
+<dl>
+  <dt>## Ruby</dt>
+  <dd>Dynamic Object-Oriented Scriping Language</dd>
+</dl>
+
+<h2 id="static-webpage">Static Webpage</h2>
+<p>: HTML 등으로 작성된 문서를 그대로 전달해주는 것
+-&gt; 즉 마크다운을 html로 바꿔주는 것 = Static Webpage를 생성하는 것</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Jekyll이란? : 루비 기반 정적 웹사이트 생성기]]></summary></entry></feed>
