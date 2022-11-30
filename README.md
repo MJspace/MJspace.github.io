@@ -52,7 +52,7 @@ git commit -m "change"
  - 속성 이름 설정 시 자신이 사용하는 블로그 주소를 입력해야 함
 
 2. 측정 ID
-- 웹 스트림 세부정보에 나오는 측정 ID를 복사해 놓음원
+- 웹 스트림 세부정보에 나오는 측정 ID를 복사해 놓음
 
 3. GitBlog 설정
 - _config.yml 파일을 수정하는데 이때 provider에는 "google-gtag"를 입력해주고, measurement_id에는 복사해 놓은 추적 ID를 입력해 줌
