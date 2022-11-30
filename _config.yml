@@ -42,7 +42,8 @@ comment:
 analytics:
   provider:     "google-gtag"
   google:
-    tracking_id:  "G-8MDJ2LV3WK"    
+    tracking_id:  "UA-250352818-1"
+    # "G-8MDJ2LV3WK"    
     anonymize_ip:
 # Exclude from processing.
 # The following items will not be processed, by default.
