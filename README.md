@@ -1,7 +1,7 @@
 # 프로젝트를 Build한 과정
 ## MJspace blog 접속 사진
 
-<[![screenshot](/posts/screenshot.png)](https://MJspace.github.io/)
+<[![screenshot](/img/screenshot.png)](https://MJspace.github.io/)
 
 
 ### 블로그 구현을 위한 세팅
